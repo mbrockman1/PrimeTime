@@ -1,0 +1,7 @@
+welcome: Welcome to prime time. It's time for you to give me a number, and I'll tell you if it's prime! Ready?
+
+ask_for_number: Go ahead, give me a number.
+
+prime: That is a prime number.
+
+not_prime: That is not a prime number.
